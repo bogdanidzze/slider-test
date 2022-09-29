@@ -2,6 +2,9 @@
     height: 150px;
     width: 450px;
     margin: 0 auto;
+    
+    display: flex;
+    align-items: center;
 }
 
 .window {
@@ -14,4 +17,8 @@
     height: 100%;
     display: flex;
 
+}
+
+.arrow {
+    cursor: pointer;
 }
